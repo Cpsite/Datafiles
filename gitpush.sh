@@ -7,6 +7,6 @@ git commit -m "$commitMessage"
 
 git push
 
-read
+echo 'Done Done Done !!!'
 
-echo 'Done Done Done ! :)'
+read
